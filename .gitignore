@@ -40,3 +40,4 @@ hs_err_pid*
 .idea/*
 src/main/resources/
 src/test/
+algorithm-part1.iml
